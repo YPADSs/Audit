@@ -1,0 +1,71 @@
+.main-container {
+    display: flex;
+    width: 123rem;
+    margin: 0 auto;
+    margin-bottom: 4rem;
+}
+
+.sidebar__wrapper {
+    background: #F3F3F3;
+    padding-top: 3rem;
+    padding-left: 3rem;
+    padding-bottom: 1.3rem;
+    width: 27rem;
+    margin-right: 3rem;
+    margin-bottom: 3rem;
+}
+
+.sidebar__title {
+    font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 1.6rem;
+line-height: 2rem;
+color: #B69D74;
+margin-bottom: 1.3rem;
+}
+
+.sidebar__list {
+    margin-bottom: 2.6rem;
+}
+
+.sidebar__item {
+    margin-bottom: 0.1rem;
+}
+
+.sidebar__link {
+    font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 1.5rem;
+line-height: 2.5rem;
+color: #000000;
+}
+
+.sidevar__blockquote {
+    background: #F3F3F3;
+    padding: 2.7rem 3rem;
+    width: 24rem;
+}
+
+.sidebar__quote {
+    margin-top: 2.5rem;
+    margin-bottom: 2.5rem;
+font-family: 'Open Sans';
+font-style: italic;
+font-weight: 300;
+font-size: 1.8rem;
+line-height: 160%;
+color: #000000;
+quotes: none;
+}
+
+.sidebar__author {
+    font-family: 'Open Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 1.5rem;
+line-height: 160%;
+color: #B69D74;
+text-align: end;
+}

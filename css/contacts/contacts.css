@@ -1,0 +1,152 @@
+.contacts__container {
+    width: 87rem;
+    padding: 4rem 0;
+    padding-right: 4rem;
+}
+
+.contacts__title {
+    font-family: 'Lora';
+font-style: normal;
+font-weight: 500;
+font-size: 2.4rem;
+line-height: 3.1rem;
+text-align: center;
+text-transform: uppercase;
+color: #1F2839;
+margin-bottom: 4rem;
+}
+.contacts__wrapper {
+    display: flex;
+}
+.contacts__form {
+    margin-right: 5.6rem;
+    background: #F3F3F3;
+border-radius: 0.3rem;
+padding: 4rem;
+display: flex;
+flex-direction: column;
+}
+
+.contacts__subtitle {
+    font-family: 'Lora';
+font-style: normal;
+font-weight: 600;
+font-size: 1.8rem;
+line-height: 2.3rem;
+color: #B69D74;
+margin-bottom: 2rem;
+}
+
+.contacts__inner {
+    display: grid;
+    grid-template-columns: 39rem;
+    gap: 1rem;
+    margin-bottom: 2rem;
+}
+
+.contacts__inner input {
+    padding: 1.3rem 0 1.2rem 2rem;
+    border: none;
+    background: #FFFFFF;
+box-shadow: inset 0px 0px 3px rgba(0, 0, 0, 0.25);
+border-radius: 0.3rem;
+}
+
+.contacts__inner input::placeholder {
+    font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 1.5rem;
+line-height: 2rem;
+color: #767676;
+}
+
+.contacts__inner textarea {
+    padding-top: 1.5rem;
+    padding-left: 2rem;
+    padding-bottom: 12rem;
+    border: none;
+    resize: none;
+    background: #FFFFFF;
+box-shadow: inset 0px 0px 3px rgba(0, 0, 0, 0.25);
+border-radius: 0.3rem;
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 1.5rem;
+line-height: 2rem;
+color: #767676;
+}
+
+.contacts__inner textarea::placeholder {
+    font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 1.5rem;
+line-height: 2rem;
+color: #767676;
+}
+
+.contacts__submit {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.contacts__submit button {
+    padding: 0.8rem 3rem;
+    background: #B69D74;
+    border: none;
+border-radius: 0.3rem;
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 1.5rem;
+line-height: 2rem;
+text-align: center;
+cursor: pointer;
+color: #FFFFFF;
+}
+
+.contacts__submit svg {
+    padding-left: 1rem;
+}
+
+.information__item {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 4rem;
+}
+
+.ininformation__title {
+    font-family: 'Open Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 1.5rem;
+line-height: 160%;
+color: #767676;
+}
+
+.ininformation__title svg {
+    padding-right: 1rem;
+}
+
+.information__item a {
+    font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 1.5rem;
+line-height: 160%;
+color: #767676;
+padding-left: 3rem;
+}
+
+.information__item span {
+      font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 1.5rem;
+line-height: 160%;
+color: #767676;
+padding-left: 3rem;
+
+}

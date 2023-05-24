@@ -1,0 +1,27 @@
+@import url(/css/main-page/header.css);
+@import url(/css/main-page/sidebar.css);
+@import url(/css/main-page/welcome.css);
+@import url(/css/main-page/work.css);
+@import url(/css/main-page/footer.css);
+@import url(/css/main-page/popup.css);
+@import url(/css/services/header.css);
+@import url(/css/services/service.css);
+@import url(/css/contacts/contacts.css);
+@import url(/css/sidebar/report.css);
+@import url(/css/sidebar/diploma.css);
+@import url(/css/sidebar/license.css);
+
+
+html {
+    font-size: 10px;
+}
+
+ul,ol,body,p, h1,h2,h3,h4,h5,h6, section {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+}

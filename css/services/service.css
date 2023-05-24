@@ -1,0 +1,48 @@
+.service__container {
+    width: 90rem;
+    padding-top: 4rem;
+    margin: 0 auto;
+}
+
+.service__title {
+    font-family: 'Lora';
+font-style: normal;
+font-weight: 500;
+font-size: 2.4rem;
+line-height: 3.1rem;
+text-align: center;
+text-transform: uppercase;
+color: #1F2839;
+margin-bottom: 4rem;
+}
+
+.service__item {
+    display: flex;
+    margin-bottom: 4rem;
+}
+
+.service__wrapper {
+    margin-left: 3rem;
+}
+.service__subtitle {
+font-family: 'Lora';
+font-style: normal;
+font-weight: 400;
+font-size: 2.2rem;
+line-height: 2.8rem;
+color: #000000;
+margin-bottom: 2rem;
+}
+
+.service__subitem {
+    font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 1.6rem;
+line-height: 2.2rem;
+color: #000000;
+margin-bottom: 0.5rem;
+padding-left: 2.5rem;
+background: url(/images/checkmark.svg) no-repeat left;
+}
+
